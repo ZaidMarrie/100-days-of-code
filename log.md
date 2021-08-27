@@ -1,30 +1,25 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 3: August 03, 2013 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Today I created a responsive navigation menu with an animated hamburger.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I had a lot of fun with animations and coding the javascript for it. At first I did not understand what the code does but eventually figured it out.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Animated Responsive Navigation Menu](https://codepen.io/ZaidMarrie/pen/XWRBVLN?editors=1000)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 4: August 04, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I just played Flexbox Froggy, to practice the flexbox layout properties @playCodepip
+. Check it out!
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I learned some new flexbox properties and they are: flex-grow, flex-shrink, flex-basis.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Flexbox Froggy](https://codepip.com/games/flexbox-froggy/)
 
 
-### Day 1: June 27, Monday
+### Day 5: August 05, 2021 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp about objects.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts**: Got stuck at some point but I figured it out after an hour on my own just before giving up. Glad I continued to the end
