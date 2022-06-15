@@ -1,25 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 3: August 03, 2013 
+### Day 1: August 03, 2013
 
-**Today's Progress**: Today I created a responsive navigation menu with an animated hamburger.
+**Today's Progress:** Today I started learning about Python's Dictionaries. I learned the following:
 
-**Thoughts:** I had a lot of fun with animations and coding the javascript for it. At first I did not understand what the code does but eventually figured it out.
+- How to define a dictionary.
+- How to access and work with values stored in a dictionary.
+- How to loop through all the information in a dictionary.
+- How to nest lists in dictionaries and vice versa, and also nest dictionaries in other dictionaries.
 
-**Link to work:** [Animated Responsive Navigation Menu](https://codepen.io/ZaidMarrie/pen/XWRBVLN?editors=1000)
+**Thoughts:** I have found that dictionaries allow you to model real life data more accurately, they allow you to connect one piece of information with another and I think that they are more flexible for storing complex data types.
 
-### Day 4: August 04, 2021
-
-**Today's Progress**: I just played Flexbox Froggy, to practice the flexbox layout properties @playCodepip
-. Check it out!
-
-**Thoughts**: I learned some new flexbox properties and they are: flex-grow, flex-shrink, flex-basis.
-
-**Link(s) to work**: [Flexbox Froggy](https://codepip.com/games/flexbox-froggy/)
-
-
-### Day 5: August 05, 2021 
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp about objects.
-
-**Thoughts**: Got stuck at some point but I figured it out after an hour on my own just before giving up. Glad I continued to the end
+**Link to work:** [My Python Learning Journey](https://github.com/ZaidMarrie/python_crash_course/commit/3395e0118ab547a3e4fb00dcf5ee2ff03a0bace7)
