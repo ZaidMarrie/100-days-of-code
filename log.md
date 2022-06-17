@@ -11,10 +11,12 @@
 
 **Thoughts:** I have found that dictionaries allow you to model real life data more accurately, they allow you to connect one piece of information with another and I think that they are more flexible for storing complex data types.
 
-**Link to work:** [My Python Learning Journey](https://github.com/ZaidMarrie/python_crash_course/commit/3395e0118ab547a3e4fb00dcf5ee2ff03a0bace7)
+**Link to work:** [Dictionaries exercises](https://github.com/ZaidMarrie/python_crash_course/blob/main/exercises/chapter_6.py)
 
 ### Day 2: June 16, 2022
 
 **Today's Progress:** Today I spent a few hours learning and experimenting with the Python's `input()` function and while loops.
 
 **Thoughts:** The `input()` function can be very helpful for creating programs that are interactive, and also's allow your programs to work with data provided by a user. I also found that you can use a while loop to keep a program running as long as a user wants it to; or until a certain condition is reached.
+
+**Link to work:** [User input and while loops exercises](https://github.com/ZaidMarrie/python_crash_course/blob/main/exercises/chapter_7.py)
