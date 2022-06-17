@@ -20,3 +20,17 @@
 **Thoughts:** The `input()` function can be very helpful for creating programs that are interactive, and also's allow your programs to work with data provided by a user. I also found that you can use a while loop to keep a program running as long as a user wants it to; or until a certain condition is reached.
 
 **Link to work:** [User input and while loops exercises](https://github.com/ZaidMarrie/python_crash_course/blob/main/exercises/chapter_7.py)
+
+### Day 3: June 17, 2022
+
+**Today's Progress:** Today I learned how to define function and use functions in Python, I learned quite a lot about functions such as:
+
+- How to define functions and pass data to them.
+- How to use positional and keyword arguments.
+- How to accept an arbitrary number of arguments.
+- How to use store functions as seperated files, called _modules_.
+- I also learned some common conventions and practices associated with styling functions
+
+**Thoughts:** I find that the ability to pass an arbitrary keyword arguments very interesting. It could be very useful when gathering data, if you do not know how much data will be needed. Combined with the dictionary data type this can make building complex programs much easier.
+
+**Link to work:** [Functions exercises](https://github.com/ZaidMarrie/python_crash_course/blob/main/exercises/chapter_8.py)
