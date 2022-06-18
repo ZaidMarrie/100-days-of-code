@@ -34,3 +34,11 @@
 **Thoughts:** I find that the ability to pass an arbitrary keyword arguments very interesting. It could be very useful when gathering data, if you do not know how much data will be needed. Combined with the dictionary data type this can make building complex programs much easier.
 
 **Link to work:** [Functions exercises](https://github.com/ZaidMarrie/python_crash_course/blob/main/exercises/chapter_8.py)
+
+### Day 4: June 18, 2022
+
+**Today's Progress:** Today I learned about Python's classes, how to define them, store information(attributes), defined methods within a class, instantiation, how to modify attributes directly and through methods, and I also learned about inheritance. I also learned about Python's Standard library.
+
+**Thoughts:** The concept of inheritance can simplify the creation of related objects, it can make your code easier to read and understand.
+
+**Link to work:** [Classes exercises](https://github.com/ZaidMarrie/python_crash_course/blob/main/exercises/chapter_9.py)
