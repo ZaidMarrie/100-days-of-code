@@ -42,3 +42,11 @@
 **Thoughts:** The concept of inheritance can simplify the creation of related objects, it can make your code easier to read and understand.
 
 **Link to work:** [Classes exercises](https://github.com/ZaidMarrie/python_crash_course/blob/main/exercises/chapter_9.py)
+
+### Day 5: June 19, 2022
+
+**Today's Progress:** Today I spent time working with files. I learned how to read files, how to write/append to files, how to handle _Exceptions_, how to use the `json` module to store and load data.
+
+**Thoughts:** Unlike vanilla _JavaScript_, Python offers a way to manipulate files out of the box and `json` is much easier to use.
+
+**Link to work:** [Files and Exceptions exercises](https://github.com/ZaidMarrie/python_crash_course/blob/main/exercises/chapter_10.py)
