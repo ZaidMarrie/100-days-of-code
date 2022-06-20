@@ -50,3 +50,11 @@
 **Thoughts:** Unlike vanilla _JavaScript_, Python offers a way to manipulate files out of the box and `json` is much easier to use.
 
 **Link to work:** [Files and Exceptions exercises](https://github.com/ZaidMarrie/python_crash_course/blob/main/exercises/chapter_10.py)
+
+### Day 6: June 20, 2022
+
+**Today's Progress:** I wrote my first unit test in Python using the `unittest` module. I wrote tests for both functions and classes, and created multiple test cases to verify different behaviors.
+
+**Thoughts:** Testing your code allows you to catch bugs and errors before a user of your program encounters them. When testing your code you can be more confident that adding new features implemented into your project won't break the parts that work.
+
+**Link to work:** [Modules and Unit Tests Source Code](https://github.com/ZaidMarrie/python_crash_course/tree/main/testing_your_code_chapter)
