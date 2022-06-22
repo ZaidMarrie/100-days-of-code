@@ -58,3 +58,19 @@
 **Thoughts:** Testing your code allows you to catch bugs and errors before a user of your program encounters them. When testing your code you can be more confident that adding new features implemented into your project won't break the parts that work.
 
 **Link to work:** [Modules and Unit Tests Source Code](https://github.com/ZaidMarrie/python_crash_course/tree/main/testing_your_code_chapter)
+
+### Day 7: June 21, 2022
+
+**Today's Progress:** I learned how to install and use the `pygame` module, how to draw a screen which is a surface for your game to run on, how to draw images to that screen and how to handle events.
+
+**Thoughts:** The `pygame` module is very useful if you are planning to build a game. It has many features that help make building a game much more easy.
+
+**Link to work:** [Project 1 Source Code](https://github.com/ZaidMarrie/python_crash_course)
+
+### Day 8: June 22, 2022
+
+**Today's Progress:** I learned how to use the `Sprite` and `Group` classes from the `pygame` module. I used these classes to manipulate a group of objects.
+
+**Thoughts:** The `Sprite` and `Group` classes provides you with a simple and efficient way to manage a games objects, as long as you know how to use it.
+
+**Link to work:** [Project 1 Source Code](https://github.com/ZaidMarrie/python_crash_course)
