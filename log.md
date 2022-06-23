@@ -65,7 +65,7 @@
 
 **Thoughts:** The `pygame` module is very useful if you are planning to build a game. It has many features that help make building a game much more easy.
 
-**Link to work:** [Project 1 Source Code](https://github.com/ZaidMarrie/python_crash_course)
+**Link to work:** [Project 1 Source Code](https://github.com/ZaidMarrie/python_crash_course/tree/main/projects/alien_invasion_game)
 
 ### Day 8: June 22, 2022
 
@@ -73,4 +73,12 @@
 
 **Thoughts:** The `Sprite` and `Group` classes provides you with a simple and efficient way to manage a games objects, as long as you know how to use it.
 
-**Link to work:** [Project 1 Source Code](https://github.com/ZaidMarrie/python_crash_course)
+**Link to work:** [Project 1 Source Code](https://github.com/ZaidMarrie/python_crash_course/tree/main/projects/alien_invasion_game)
+
+### Day 9: June 23, 2022
+
+**Today's Progress:** Today I implemented a scoring system in the alien invasion game I have been working on. Whilst doing so I learned how to add text to the screen which has to be drawn as an image using the `pygame.font` module.
+
+**Thoughts:** I am quite suprised that Python does not have a built-in method for display text. However, I find the `pygame` module to b very powerful.
+
+**Link to work:** [Project 1 Source Code](https://github.com/ZaidMarrie/python_crash_course/tree/main/projects/alien_invasion_game)
