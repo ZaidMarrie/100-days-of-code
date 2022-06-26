@@ -82,3 +82,19 @@
 **Thoughts:** I am quite suprised that Python does not have a built-in method for display text. However, I find the `pygame` module to b very powerful.
 
 **Link to work:** [Project 1 Source Code](https://github.com/ZaidMarrie/python_crash_course/tree/main/projects/alien_invasion_game)
+
+### Day 10: June 24, 2022
+
+**Today's Progress:** Today I started using and learning how to use the `matplotlib` module. I used it to create visualizations of certain data sets.
+
+**Thoughts:** The `matplotlib` can be used in many ways. It can be used to analyze large amounts of data very quickly. You can also represent the data in visualizations in many forms which include scatter plot, line graphs, etc.
+
+**Link to work:** [Project 2 Source Code](https://github.com/ZaidMarrie/python_crash_course/tree/main/projects/data_visualization)
+
+### Day 11: June 26, 2022
+
+**Today's Progress:** I worked with real-world datasets. These data sets were stored as CSV and JSON files. I parsed these files into data which I can more easily use within Python. I then used the data to create meaningful visualizations of weather and earthquake data. I also used `Plotly` to create a visualization of geagraphical data on a world map.
+
+**Thoughts:** Using the CSV and JSON data formats you can analyze and process any data you want.
+
+**Link to work:** [Project 2 Source Code](https://github.com/ZaidMarrie/python_crash_course/tree/main/projects/data_visualization)
