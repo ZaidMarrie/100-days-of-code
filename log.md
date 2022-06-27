@@ -98,3 +98,11 @@
 **Thoughts:** Using the CSV and JSON data formats you can analyze and process any data you want.
 
 **Link to work:** [Project 2 Source Code](https://github.com/ZaidMarrie/python_crash_course/tree/main/projects/data_visualization)
+
+### Day 12: June 27, 2022
+
+**Today's Progress:** I installed the `requests` module using _pip_. I then used this module to make an API call to the _gihub_ API, stored and processed the information that was returned and created a visualization of the _Most-Starred_ Python Projects on Github.
+
+**Thoughts:** APIs make it easy to create self-contained programs that works with up to date information/data that is returned from an API call, even if the data is rapidly changing.
+
+**Link to work:** [Project 2 Source Code](https://github.com/ZaidMarrie/python_crash_course/tree/main/projects/data_visualization)
