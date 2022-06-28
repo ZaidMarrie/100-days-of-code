@@ -106,3 +106,19 @@
 **Thoughts:** APIs make it easy to create self-contained programs that works with up to date information/data that is returned from an API call, even if the data is rapidly changing.
 
 **Link to work:** [Project 2 Source Code](https://github.com/ZaidMarrie/python_crash_course/tree/main/projects/data_visualization)
+
+### Day 13: June 28, 2022
+
+**Today's Progress:** Today I have covered alot as I started learning the _Django_ framework. I learned the following:
+
+- How to setup and start a virtual environment.
+- How to install _Django_ to a virtual environment.
+- How to setup and app, and define models to represent data for the app.
+- How to migrate a database after making changes to models.
+- How to create a _superuser_ for an admin site.
+- How to define URLs, create views, and write templates to make pages for a site.
+- How to use template inheritance, and template tags.
+
+**Thoughts:** Creating templates using template inheritance can simplify the structure of individual templates and makes it easy to modify a site as it evolves. It also prevents from you having to repeat the same code.
+
+**Link to work:** [Project 3 Source Code](https://github.com/ZaidMarrie/python_crash_course/tree/main/projects/web_applications)
