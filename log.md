@@ -122,3 +122,11 @@
 **Thoughts:** Creating templates using template inheritance can simplify the structure of individual templates and makes it easy to modify a site as it evolves. It also prevents from you having to repeat the same code.
 
 **Link to work:** [Project 3 Source Code](https://github.com/ZaidMarrie/python_crash_course/tree/main/projects/web_applications)
+
+### Day 14: June 29, 2022
+
+**Today's Progress:** I built a simple user authentication and registration system, which allows users to log in/out; register if they don't have an account, and restricted access to certain pages, only accessible by logged in users.
+
+**Thoughts:** Using the default _Django_ functions to validate user input is very easier as it automates the process so you don't have to worry much about the security of your app.
+
+**Link to work:** [Project 3 Source Code](https://github.com/ZaidMarrie/python_crash_course/tree/main/projects/web_applications)
