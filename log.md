@@ -130,3 +130,11 @@
 **Thoughts:** Using the default _Django_ functions to validate user input is very easier as it automates the process so you don't have to worry much about the security of your app.
 
 **Link to work:** [Project 3 Source Code](https://github.com/ZaidMarrie/python_crash_course/tree/main/projects/web_applications)
+
+### Day 15: June 30, 2022
+
+**Today's Progress:** I styled the learning-log app I've been working on using the _Bootstrap_ library and the django-bootstrap4 app. I also deployed my app to heroku using the heroku-cli.
+
+**Thoughts:** Bootstrap provides you with simple to use templates for creating various web components that speed up the styling process of web apps.
+
+**Link to work:** [Live app](https://zaids-learning-log.herokuapp.com/)
