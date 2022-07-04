@@ -138,3 +138,12 @@
 **Thoughts:** Bootstrap provides you with simple to use templates for creating various web components that speed up the styling process of web apps.
 
 **Link to work:** [Live app](https://zaids-learning-log.herokuapp.com/)
+
+### Day 16: July 04, 2022
+
+**Today's Progress:** I revised what I have learnt about HTML. I revised the basics of HTML which include: how to structure an HTML document, metadata in HTML(The Head), HTML text fundamentals, creating hyperlinks, advanced text formatting, and how to debug an HTML document.
+
+**Thoughts:** There are elements that I was not aware of that I could have used in the past, such as `<blockquote>`, `<q>`, `<cite>`, and `<dl>`. These elements also has semantic meaning which could help add proper meaning to certain text and format it correctly, resulting in better accessibility (i.e. especially for people using screen reader).
+
+**Link to work:** [Letter using HTML](https://codepen.io/LeKoels27/pen/LYdpNrx)
+**Link to work:** [A simple page of content](https://codepen.io/LeKoels27/pen/OJvyNBw)
