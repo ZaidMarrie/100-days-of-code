@@ -147,3 +147,11 @@
 
 **Link to work:** [Letter using HTML](https://codepen.io/LeKoels27/pen/LYdpNrx)
 **Link to work:** [A simple page of content](https://codepen.io/LeKoels27/pen/OJvyNBw)
+
+### Day 17: July 06, 2022
+
+**Today's Progress:** I learned more about multimedia and embedding elements such as `<img>`, `<video>`, `<audio>`, `<iframe>`, `<object>`, and `<embed>`. Additionally, I was introduced to some security concerns regarding embedding content using `<iframe>`s, known CSP(Content Security Policy).
+
+**Thoughts:** Embedding different media types can make the web experience more inclusive as it allows multiple mediums for consuming content, such as text, video, audio(among others).
+
+**Link to work:** [Mozilla Splash Page](https://codepen.io/LeKoels27/pen/ZExQpRx)
