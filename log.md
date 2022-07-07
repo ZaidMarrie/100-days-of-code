@@ -155,3 +155,11 @@
 **Thoughts:** Embedding different media types can make the web experience more inclusive as it allows multiple mediums for consuming content, such as text, video, audio(among others).
 
 **Link to work:** [Mozilla Splash Page](https://codepen.io/LeKoels27/pen/ZExQpRx)
+
+### Day 18: July 07, 2022
+
+**Today's Progress:** Today I took a look at _HTML_ tables. I marked-up tabular data and used a little _CSS_ for basic styling.
+
+**Thoughts:** _HTML_ tables make it easy to display tables of information, such as timetables, plans, and/or statistics.
+
+**Link to work:** [Tabular Planet Data](https://codepen.io/LeKoels27/pen/QWmyoyY)
