@@ -163,3 +163,11 @@
 **Thoughts:** _HTML_ tables make it easy to display tables of information, such as timetables, plans, and/or statistics.
 
 **Link to work:** [Tabular Planet Data](https://codepen.io/LeKoels27/pen/QWmyoyY)
+
+### Day 19: July 08, 2022
+
+**Today's Progress:** Had a look at what _CSS_ is, how it is structured, and how it works. I also styled a basic _HTML_ page with some simple _CSS_ declarations, which are key-value pairs(a property and a property value). The values in each declaration specify how that value should style the property.
+
+**Thoughts:** There are many different ways to apply styling to an element, such as `type-selectors`, `class-selectors`, `id-selectors`, `combinators` and much more. These are called _selectors_ and they are used to target elements on a page.
+
+**Link to work:** [Biography Page](https://codepen.io/LeKoels27/pen/BarKRXY)
