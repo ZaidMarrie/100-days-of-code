@@ -171,3 +171,11 @@
 **Thoughts:** There are many different ways to apply styling to an element, such as `type-selectors`, `class-selectors`, `id-selectors`, `combinators` and much more. These are called _selectors_ and they are used to target elements on a page.
 
 **Link to work:** [Biography Page](https://codepen.io/LeKoels27/pen/BarKRXY)
+
+### Day 20: July 11, 2022
+
+**Today's Progress:** Took a deeper dive into specificity, the cascade, inheritance, and selectors(mostly combinators). I learned some interesting things about the inheritance values, such as `inherit`, `unset`, `revert`, and `initial`.
+
+**Thoughts:** The inheritance values can be used as a value for any property, which is often referred to as global values.
+
+**Link to work:** [MDN - Cascade & Inheritance Page](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
