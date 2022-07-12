@@ -179,3 +179,11 @@
 **Thoughts:** The inheritance values can be used as a value for any property, which is often referred to as global values.
 
 **Link to work:** [MDN - Cascade & Inheritance Page](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
+
+### Day 21: July 12, 2022
+
+**Today's Progress:** For today I had a look at different writing modes in CSS. I learned about logical properties and values, which allow you to add styles based on the writing mode specified. Alongside writing modes, I also had a look at styling images, media & form elements.
+
+**Thoughts:** I previously faced problems sizing images when using layout properties such as `flexbox` & `grid`. The problem I faced was the behaviour that images had, which were not the same as other elements. I usually avoid making images direct children of a `flex` or `grid` container to prevent this behaviour. Until now I have not understood this behaviour. This is actually the default behaviour which prevents images from being stretched, as `grid` & `flex` items stretch by default.
+
+**Link to work:** [MDN - Images, media & form elements page](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Images_media_form_elements)
