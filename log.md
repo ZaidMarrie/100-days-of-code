@@ -146,6 +146,7 @@
 **Thoughts:** There are elements that I was not aware of that I could have used in the past, such as `<blockquote>`, `<q>`, `<cite>`, and `<dl>`. These elements also has semantic meaning which could help add proper meaning to certain text and format it correctly, resulting in better accessibility (i.e. especially for people using screen reader).
 
 **Link to work:** [Letter using HTML](https://codepen.io/LeKoels27/pen/LYdpNrx)
+
 **Link to work:** [A simple page of content](https://codepen.io/LeKoels27/pen/OJvyNBw)
 
 ### Day 17: July 06, 2022
@@ -187,3 +188,15 @@
 **Thoughts:** I previously faced problems sizing images when using layout properties such as `flexbox` & `grid`. The problem I faced was the behaviour that images had, which were not the same as other elements. I usually avoid making images direct children of a `flex` or `grid` container to prevent this behaviour. Until now I have not understood this behaviour. This is actually the default behaviour which prevents images from being stretched, as `grid` & `flex` items stretch by default.
 
 **Link to work:** [MDN - Images, media & form elements page](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Images_media_form_elements)
+
+### Day 22: July 13, 2022
+
+**Today's Progress:** Read about organising & authoring your CSS. I learned about some common _CSS_ methodologies for writing structured _CSS_, which in turn results in reuseable, readable, and cleaner code. I prefer the _BEM_ naming conventions.
+
+**Thoughts:** Writing structured _CSS_ can help make maintaining large _CSS_ projects much easier as they are more structured and readable. They allow you to easily understand a project even after returning to the project years later.
+
+**Link to work:** [Fundamental CSS Comprehension - MDN Assessment](https://codepen.io/LeKoels27/pen/abYmaqJ)
+
+**Link to work:** [Fancy Letterheaded Paper - MDN Assessment](https://codepen.io/LeKoels27/pen/WNzGgzq)
+
+**Link to work:** [Cool-looking Box - MDN Assessment](https://codepen.io/LeKoels27/pen/rNdMqwY)
