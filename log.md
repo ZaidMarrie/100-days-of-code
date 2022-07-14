@@ -207,4 +207,4 @@
 
 **Thoughts:** _CSS_ provides us(developer) with very efficient and effective text and font styling methods to create custom font styling, similar to what rich-text formatting software(MS Office Suite) allows you to do.
 
-**Link to work:** [St Huxley's Community College - MDN Assessment](https://codepen.io/LeKoels27/pen/abYmaqJ)
+**Link to work:** [St Huxley's Community College - MDN Assessment](https://codepen.io/LeKoels27/pen/rNdWMZL)
