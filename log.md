@@ -200,3 +200,11 @@
 **Link to work:** [Fancy Letterheaded Paper - MDN Assessment](https://codepen.io/LeKoels27/pen/WNzGgzq)
 
 **Link to work:** [Cool-looking Box - MDN Assessment](https://codepen.io/LeKoels27/pen/rNdMqwY)
+
+### Day 23: July 14, 2022
+
+**Today's Progress:** Had a look at some of the most common text/font _CSS_ styling properties as well as some lesser known properties such as font-variant, font-variant-ligatures, font-kerning, writing-mode, etc.
+
+**Thoughts:** _CSS_ provides us(developer) with very efficient and effective text and font styling methods to create custom font styling, similar to what rich-text formatting software(MS Office Suite) allows you to do.
+
+**Link to work:** [St Huxley's Community College - MDN Assessment](https://codepen.io/LeKoels27/pen/abYmaqJ)
