@@ -208,3 +208,11 @@
 **Thoughts:** _CSS_ provides us(developer) with very efficient and effective text and font styling methods to create custom font styling, similar to what rich-text formatting software(MS Office Suite) allows you to do.
 
 **Link to work:** [St Huxley's Community College - MDN Assessment](https://codepen.io/LeKoels27/pen/rNdWMZL)
+
+### Day 24: July 15, 2022
+
+**Today's Progress:** Got introduced to _CSS_ layout, by looking at the normal flow of an _HTML_ document. In addition to the normal flow of a document, I covered more layout methods such as `flexbox`, `grid`, `float`s, and `position`ing.
+
+**Thoughts:** _CSS_ provides us with very interesting tools to create both one-dimensional and two-dimensional layouts. They can be used to create very complex layouts with minimal code and styling, which is very efficient.
+
+**Link to work:** No work to share today
