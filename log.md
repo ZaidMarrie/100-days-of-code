@@ -216,3 +216,11 @@
 **Thoughts:** _CSS_ provides us with very interesting tools to create both one-dimensional and two-dimensional layouts. They can be used to create very complex layouts with minimal code and styling, which is very efficient.
 
 **Link to work:** No work to share today
+
+### Day 25: July 16, 2022
+
+**Today's Progress:** Today I learned about responsive web design(RWD). I explored the media queries at-rule that _CSS_ provides, using a mobile-first approach. I also looked at some legacy layout methods that were used before `flexbox` and `grid`.
+
+**Thoughts:** Responsive web design allows us as developers to design our sites to be useable across a variety of screen sizes, since we have a diverse range of devices with varying screen sizes in modern times. This approach of laying out our webpages allows for a better web experience, regardless of the device you are using.
+
+**Link to work:** [Fundamental Layout Comprehension - MDN Assessment](https://codepen.io/LeKoels27/pen/BarpLpr)
