@@ -224,3 +224,11 @@
 **Thoughts:** Responsive web design allows us as developers to design our sites to be useable across a variety of screen sizes, since we have a diverse range of devices with varying screen sizes in modern times. This approach of laying out our webpages allows for a better web experience, regardless of the device you are using.
 
 **Link to work:** [Fundamental Layout Comprehension - MDN Assessment](https://codepen.io/LeKoels27/pen/BarpLpr)
+
+### Day 26: July 18, 2022
+
+**Today's Progress:** Today I started learning _JavaScript_. I learned what it is and what it's used for. In addition to that I learned about some of the basics such as variables, the `number` data-type, the `string` data-type, and some common methods available to these data-types.
+
+**Thoughts:** _JavaScript_ is a very useful and powerful language. It is dynamically typed, meaning that you do not have to specify a varibles type when initialized. It is also a interpreted language, which means it does not have to be converted to an understandable format. It is compiled at runtime, unlike other languages that are compiled before runtime(These are considered compiled languages). Another concept that I learned was that variables declared with `var` are hoisted. This concept can be seen as having all varibles declared at the top since it can be used before being declared.
+
+**Link to work:** [Number Guessing Game](https://zaidmarrie.github.io/number-guessing-game/)
