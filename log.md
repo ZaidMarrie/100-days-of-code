@@ -232,3 +232,11 @@
 **Thoughts:** _JavaScript_ is a very useful and powerful language. It is dynamically typed, meaning that you do not have to specify a varibles type when initialized. It is also a interpreted language, which means it does not have to be converted to an understandable format. It is compiled at runtime, unlike other languages that are compiled before runtime(These are considered compiled languages). Another concept that I learned was that variables declared with `var` are hoisted. This concept can be seen as having all varibles declared at the top since it can be used before being declared.
 
 **Link to work:** [Number Guessing Game](https://zaidmarrie.github.io/number-guessing-game/)
+
+### Day 27: July 19, 2022
+
+**Today's Progress:** Took some time to play around with _Array's_ and some of the most common _Array_ methods in JavaScript.
+
+**Thoughts:** _Arrays_ allow for storing multiple values in a single variable. You can use a loop to do the same thing to every element in an _Array_ with very minimal code.
+
+**Link to work:** [Silly Story Generator](https://codepen.io/LeKoels27/pen/qBorVgw)
