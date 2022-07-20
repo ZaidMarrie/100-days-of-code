@@ -240,3 +240,11 @@
 **Thoughts:** _Arrays_ allow for storing multiple values in a single variable. You can use a loop to do the same thing to every element in an _Array_ with very minimal code.
 
 **Link to work:** [Silly Story Generator](https://codepen.io/LeKoels27/pen/qBorVgw)
+
+### Day 28: July 20, 2022
+
+**Today's Progress:** Read some articles on _loops_, _conditional_, _functions_, and _events_ in JavaScript. In the process I learned about the event bubbling, capturing, and target phases; I now understand these event phases, as I never understood them before.
+
+**Thoughts:** The `Event` object that is passes to the event-handler function, provides us with some properties and methods that can help with configuring how the event is handled. I also discovered the `Event.currentTarget` property, which is like a reference to the _Node_ the event is attached to; I have been looking for this for quite some time.
+
+**Link to work:** [Image Gallery](https://codepen.io/LeKoels27/pen/vYRmLgL)
