@@ -248,3 +248,11 @@
 **Thoughts:** The `Event` object that is passes to the event-handler function, provides us with some properties and methods that can help with configuring how the event is handled. I also discovered the `Event.currentTarget` property, which is like a reference to the _Node_ the event is attached to; I have been looking for this for quite some time.
 
 **Link to work:** [Image Gallery](https://codepen.io/LeKoels27/pen/vYRmLgL)
+
+### Day 29: July 25, 2022
+
+**Today's Progress:** Went over _Object-Oriented Programming_ concepts. I also played around with some `class`es, inheritance, and the prototype chain.
+
+**Thoughts:** _Object-Oriented Programming_ allows you to create templates for the properties and methods(functions), you want a object to have. This method of defining objects makes for a more efficient way to create objects that contain the same properties and methods, as you only define it in one place and create instances of the class(which is the object template you create). These instances then share the same properties and methods, however, the values may differ.
+
+**Link to work:** [Image Gallery](https://codepen.io/LeKoels27/pen/wvmqqqG)
