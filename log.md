@@ -255,4 +255,12 @@
 
 **Thoughts:** _Object-Oriented Programming_ allows you to create templates for the properties and methods(functions), you want a object to have. This method of defining objects makes for a more efficient way to create objects that contain the same properties and methods, as you only define it in one place and create instances of the class(which is the object template you create). These instances then share the same properties and methods, however, the values may differ.
 
-**Link to work:** [Image Gallery](https://codepen.io/LeKoels27/pen/wvmqqqG)
+**Link to work:** [Bouncing Balls](https://codepen.io/LeKoels27/pen/wvmqqqG)
+
+### Day 30: July 26, 2022
+
+**Today's Progress:** Today I learned about synchronous programming and why we need asynchronous programming. After learning about the differences between synchrounous and async I learned about `Promise`s and `async await`.
+
+**Thoughts:** Asynchrounous programming has a much cleaner and easier to read syntax than the traditionally used methods which included nested callbacks (often referred to as "callback hell"); They are difficult to read and debug.
+
+**Link to work:** [Sequencing Animations](https://codepen.io/LeKoels27/pen/WNzEqqN)
