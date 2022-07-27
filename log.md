@@ -264,3 +264,11 @@
 **Thoughts:** Asynchrounous programming has a much cleaner and easier to read syntax than the traditionally used methods which included nested callbacks (often referred to as "callback hell"); They are difficult to read and debug.
 
 **Link to work:** [Sequencing Animations](https://codepen.io/LeKoels27/pen/WNzEqqN)
+
+### Day 31: July 27, 2022
+
+**Today's Progress:** I took some time to have a look at the _Document Object Model_ and some of the methods and features I haven't used before. In addition to the DOM, I also had an interesting read on the `Fetch()` API.
+
+**Thoughts:** The `Fetch()` API is a modern version of the `XMLHttpRequest` API. The DOM(Document Object Model) is used to manipulate the HTML document and Styles associated with that document, allowing for interactive and dynamic web pages.
+
+**Link to work:** [What are APIS? | MDN Article](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
