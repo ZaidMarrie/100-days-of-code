@@ -272,3 +272,12 @@
 **Thoughts:** The `Fetch()` API is a modern version of the `XMLHttpRequest` API. The DOM(Document Object Model) is used to manipulate the HTML document and Styles associated with that document, allowing for interactive and dynamic web pages.
 
 **Link to work:** [What are APIS? | MDN Article](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
+
+### Day 32: July 28, 2022
+
+**Today's Progress:** Had an introduction to drawing graphics on the web. I got started learning about the `<canvas>` element and the associated _Canvas API_. I also learned a few things about loops and animations as well as some basics about `WebGL`. Here are some articles about these topics:
+
+- [Drawing Graphics | MDN Article](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Drawing_graphics)
+- [Getting Started with WebGL | MDN Article](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL)
+
+**Thoughts:** The _Canvas_ and _OpenGL_ API's provide developers to perform powerful 2D & 3D rendering in an _HTML_ `<canvas>`.
