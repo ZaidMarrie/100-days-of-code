@@ -281,3 +281,11 @@
 - [Getting Started with WebGL | MDN Article](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL)
 
 **Thoughts:** The _Canvas_ and _OpenGL_ API's provide developers to perform powerful 2D & 3D rendering in an _HTML_ `<canvas>`.
+
+### Day 33: July 29, 2022
+
+**Today's Progress:** I explored some of the properties and methods of the `HTMLMediaElement` API, to control audio and video players.
+
+**Thoughts:** Not all browsers have the same controls when the `controls` attribute is added to `<audio>` or `<video>`. This is results in inconsistent cross-browser support and it would be better to implement controls using _JavaScript_.
+
+**Link to work:** [Video & Audio APIs | MDN Article](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
