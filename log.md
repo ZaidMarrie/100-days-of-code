@@ -289,3 +289,11 @@
 **Thoughts:** Not all browsers have the same controls when the `controls` attribute is added to `<audio>` or `<video>`. This is results in inconsistent cross-browser support and it would be better to implement controls using _JavaScript_.
 
 **Link to work:** [Video & Audio APIs | MDN Article](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
+
+### Day 34: August 17, 2022
+
+**Today's Progress:** I learned about _Client-side Storage_. The `Web Storage API` stores simple data such as strings and numbers, and the `IndexedDB API` stores more complex data.
+
+**Thoughts:** The Client-side storage APIs that are provided to us developers are super usefull and powerful, as they allow us to create web sites/apps that can be loaded offline which can improve the overall experience for a user. This makes each subsequent load of a web page/app faster as it does not load assets twice.
+
+**Link to work:** [Client-side Storage | MDN Article](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
