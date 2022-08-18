@@ -297,3 +297,13 @@
 **Thoughts:** The Client-side storage APIs that are provided to us developers are super usefull and powerful, as they allow us to create web sites/apps that can be loaded offline which can improve the overall experience for a user. This makes each subsequent load of a web page/app faster as it does not load assets twice.
 
 **Link to work:** [Client-side Storage | MDN Article](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
+
+### Day 35: August 18, 2022
+
+**Today's Progress:** Completed the [Learn JavaScript For Free Course](https://scrimba.com/learn/learnjavascript) on _Scrimba_. I also completed the three solo projects from the course. ["Basketball Scoreboard", "Password Generator", "Unit Converter"]
+
+**Link to work:** [JavaScript Solo Project - Basketball Scoreboard](https://scrimba.com/scrim/cwGyNMfd)
+
+**Link to work:** [JavaScript Solo Project - Password Generator](https://scrimba.com/scrim/c6w6KJtM)
+
+**Link to work:** [JavaScript Solo Project - Unit Converter](https://scrimba.com/scrim/cMLvePTv)
