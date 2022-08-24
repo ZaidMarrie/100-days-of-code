@@ -307,3 +307,11 @@
 **Link to work:** [JavaScript Solo Project - Password Generator](https://scrimba.com/scrim/c6w6KJtM)
 
 **Link to work:** [JavaScript Solo Project - Unit Converter](https://scrimba.com/scrim/cMLvePTv)
+
+### Day 36: August 24, 2022
+
+**Today's Progress:** Started learning _React_.
+
+**Thoughts:** React is a JavaScript library for building interactive user interfaces.
+
+**Link to work:** [React Tutorial - Intro to React](https://reactjs.org/tutorial/tutorial.html)
