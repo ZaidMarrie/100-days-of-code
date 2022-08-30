@@ -315,3 +315,11 @@
 **Thoughts:** React is a JavaScript library for building interactive user interfaces.
 
 **Link to work:** [React Tutorial - Intro to React](https://reactjs.org/tutorial/tutorial.html)
+
+### Day 37: August 28, 2022
+
+**Today's Progress:** I built the Task Tracker App from Brad Traversy's [React Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8) on Youtube.
+
+**Thoughts:** Building apps in React is more robust and it allows for dynamic markup. It allows you to create reusable components.
+
+**Link to work:** [React Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
