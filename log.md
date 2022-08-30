@@ -323,3 +323,11 @@
 **Thoughts:** Building apps in React is more robust and it allows for dynamic markup. It allows you to create reusable components.
 
 **Link to work:** [React Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+
+### Day 38: August 30, 2022
+
+**Today's Progress:** I started the [Learn React for Free Course](https://scrimba.com/learn/learnreact) @scrimba.
+
+**Thoughts:** React is composable meaning that your user interface can be broken up into small components, which can then be put together to make the full user interface. React is also declarative; this means that you can ask the computer to do something and expect it to know how to do it, whereas if it was imperative you would have to give it step-by-step instructions on how to do the task.
+
+**Link to work:** [Scrimba's Learn React Course](https://scrimba.com/learn/learnreact)
