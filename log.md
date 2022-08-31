@@ -331,3 +331,11 @@
 **Thoughts:** React is composable meaning that your user interface can be broken up into small components, which can then be put together to make the full user interface. React is also declarative; this means that you can ask the computer to do something and expect it to know how to do it, whereas if it was imperative you would have to give it step-by-step instructions on how to do the task.
 
 **Link to work:** [Scrimba's Learn React Course](https://scrimba.com/learn/learnreact)
+
+### Day 39: August 31, 2022
+
+**Today's Progress:** I completed the [Digital Business Card - Solo Project](https://scrimba.com/learn/learnreact/react-section-1-solo-project-coce646e88eea46f91af43ca4) @scrimba.
+
+**Thoughts:** I used the `react-icons` library which consists of many icons.
+
+**Link to work:** [Digital Business Card Live Demo](https://zaids-digital-business-card.netlify.app/)
