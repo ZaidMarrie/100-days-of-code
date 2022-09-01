@@ -339,3 +339,11 @@
 **Thoughts:** I used the `react-icons` library which consists of many icons.
 
 **Link to work:** [Digital Business Card Live Demo](https://zaids-digital-business-card.netlify.app/)
+
+### Day 40: September 01, 2022
+
+**Today's Progress:** Learned state management in _React_.
+
+**Thoughts:** In _React_ state can be managed either with `this.state` in class-based components, or with the `useState()` hook when using functional components.
+
+**Link to work:** [Everything you need to know about useState | Blog Post](https://blog.webdevsimplified.com/2020-04/use-state/)
