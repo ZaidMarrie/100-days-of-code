@@ -347,3 +347,12 @@
 **Thoughts:** In _React_ state can be managed either with `this.state` in class-based components, or with the `useState()` hook when using functional components.
 
 **Link to work:** [Everything you need to know about useState | Blog Post](https://blog.webdevsimplified.com/2020-04/use-state/)
+
+### Day 41: September 02, 2022
+
+**Today's Progress:** Learned about lifecycle methods(`componentDidMount` & `componentWillUnmount`), as well as event handling in _React_.
+
+**Thoughts:** In class-based components, state is merged and can therefore be used to update state properties independently. The `componentDidMount` lifecycle method runs after the component is rendered to the screen, and the `componentWillUnmount` method runs when is run whenever the component is removed from the DOM. In _React_ the data always flows down; This means that No component can know if a certain component is stateful or stateless, and they shouldn't care whether it is defined as a function or a class. This is why state is often called local or encapsulated. It is not accessible to any component other than the one that owns and sets it.
+
+**Link to work:** [State and Lifecycle | React Docs](https://reactjs.org/docs/state-and-lifecycle.html)
+**Link to work:** [Handling Events | React Docs](https://reactjs.org/docs/handling-events.html)
