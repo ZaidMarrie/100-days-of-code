@@ -356,3 +356,11 @@
 
 **Link to work:** [State and Lifecycle | React Docs](https://reactjs.org/docs/state-and-lifecycle.html)
 **Link to work:** [Handling Events | React Docs](https://reactjs.org/docs/handling-events.html)
+
+### Day 42: September 05, 2022
+
+**Today's Progress:** I learned how to create lists of elements in _React_ using the `Array.map()` method. Each item in a list should also be given a unique identifier; the idenfier is given as a `key` attribute.
+
+**Thoughts:** Lists should have a `key` property given as it allows _React_ to identify each item in the list, so _React_ knows weather an element/component is changed, or added, or removed. Also using the `index` of each item is not recommended for the `key` property, especially when the list item changes or the list is reordered.
+
+**Link to work:** [Lists & Keys | React Docs](https://reactjs.org/docs/lists-and-keys.html)
