@@ -364,3 +364,11 @@
 **Thoughts:** Lists should have a `key` property given as it allows _React_ to identify each item in the list, so _React_ knows weather an element/component is changed, or added, or removed. Also using the `index` of each item is not recommended for the `key` property, especially when the list item changes or the list is reordered.
 
 **Link to work:** [Lists & Keys | React Docs](https://reactjs.org/docs/lists-and-keys.html)
+
+### Day 43: September 07, 2022
+
+**Today's Progress:** I learned how to work with forms in _React_. Using state I made each form input element a controlled component by setting the value(checked for checkboxes) to the value in state, making _React_ the 'single source of truth'.
+
+**Thoughts:** When using the technique of "controlled components", you have access to the form data when the user starts entering data; You have all the form data in advance for submission.
+
+**Link to work:** [Forms | React Docs](https://reactjs.org/docs/forms.html)
