@@ -372,3 +372,11 @@
 **Thoughts:** When using the technique of "controlled components", you have access to the form data when the user starts entering data; You have all the form data in advance for submission.
 
 **Link to work:** [Forms | React Docs](https://reactjs.org/docs/forms.html)
+
+### Day 44: September 08, 2022
+
+**Today's Progress:** I learned about _React's_ `useEffect()` hook. The `useEffect()` hook is used to handle "side effects" in your _React_ application.
+
+**Thoughts:** The `useEffect()` hook takes two parameters, the first is a callback function which is required and the second is an optional dependency array. The dependency array helps _React_ determine if the `useEffect()` hook should be run again. Essentially, the `useEffect()` hook will run once after the component initially paints to the screen (The component mounts), and everytime after a value in the dependency array changes. The hook also allows you to cleanup any side effects. The cleanup is done by returning the cleanup function from the hook.
+
+**Link to work:** [Using the Effect Hook | React Docs](https://reactjs.org/docs/hooks-effect.html)
