@@ -380,3 +380,11 @@
 **Thoughts:** The `useEffect()` hook takes two parameters, the first is a callback function which is required and the second is an optional dependency array. The dependency array helps _React_ determine if the `useEffect()` hook should be run again. Essentially, the `useEffect()` hook will run once after the component initially paints to the screen (The component mounts), and everytime after a value in the dependency array changes. The hook also allows you to cleanup any side effects. The cleanup is done by returning the cleanup function from the hook.
 
 **Link to work:** [Using the Effect Hook | React Docs](https://reactjs.org/docs/hooks-effect.html)
+
+### Day 45: September 12, 2022
+
+**Today's Progress:** Learned about the benefits of using Composition instead of Inheritance in _React_. You most likely will always use composition, as composition along with props gives you all the flexibility you need.
+
+**Thoughts:** When using composition, you can use props and pass an arbitrary amount of props to a component. Props can be many types of data such as primitive values, functions, objects, and React elements(which are objects as well).
+
+**Link to work:** [Composition VS Inheritance | React Docs](https://reactjs.org/docs/composition-vs-inheritance.html)
