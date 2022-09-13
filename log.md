@@ -388,3 +388,11 @@
 **Thoughts:** When using composition, you can use props and pass an arbitrary amount of props to a component. Props can be many types of data such as primitive values, functions, objects, and React elements(which are objects as well).
 
 **Link to work:** [Composition VS Inheritance | React Docs](https://reactjs.org/docs/composition-vs-inheritance.html)
+
+### Day 46: September 13, 2022
+
+**Today's Progress:** I completed the React Course @scrimba. I will work on the final solo project tommorow.
+
+**Thoughts:** I built several great projects throughout the entire course, which has helped me better grasp the basics of _React_. The course is project based and really encourages you to write code by yourself.
+
+**Link to work:** [Learn React For Free | Scrimba](https://scrimba.com/learn/learnreact)
