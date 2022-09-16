@@ -396,3 +396,11 @@
 **Thoughts:** I built several great projects throughout the entire course, which has helped me better grasp the basics of _React_. The course is project based and really encourages you to write code by yourself.
 
 **Link to work:** [Learn React For Free | Scrimba](https://scrimba.com/learn/learnreact)
+
+### Day 47: September 16, 2022
+
+**Today's Progress:** I completed the Class Components React Course @scrimba. I learned how to create class components, use and update state, and some lifecycle methods.
+
+**Thoughts:** When using class components and updating a single property on the state object, one does not have to copy all the previous state properties on the state object as it is merged. One other thing to note was that a method that uses the `this` keyword needs to be binded in order to share the same context of `this` in the class.
+
+**Link to work:** [Learn Class Components in React | Scrimba](https://scrimba.com/learn/classcomponents)
