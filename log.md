@@ -404,3 +404,11 @@
 **Thoughts:** When using class components and updating a single property on the state object, one does not have to copy all the previous state properties on the state object as it is merged. One other thing to note was that a method that uses the `this` keyword needs to be binded in order to share the same context of `this` in the class.
 
 **Link to work:** [Learn Class Components in React | Scrimba](https://scrimba.com/learn/classcomponents)
+
+### Day 48: September 26, 2022
+
+**Today's Progress:** After returning from a break, I started learning about the `Context API` in _React_. Some things are still not very clear though, so I will revisit it tomorrow.
+
+**Thoughts:** Context is most usefull when you need to pass certain values around to multiple components at different levels in the component tree.
+
+**Link to work:** [Context API | React Docs](https://reactjs.org/docs/context.html)
