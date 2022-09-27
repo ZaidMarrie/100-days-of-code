@@ -412,3 +412,11 @@
 **Thoughts:** Context is most usefull when you need to pass certain values around to multiple components at different levels in the component tree.
 
 **Link to work:** [Context API | React Docs](https://reactjs.org/docs/context.html)
+
+### Day 49: September 27, 2022
+
+**Today's Progress:** I continued where I left off with the `Context API`, revisiting the concepts that were not clear to me previously. I also learned about `Refs` and forwarding `Refs` in _React_ (Just a brief intro).
+
+**Thoughts:** `Refs` allow you to access DOM nodes and _React_ elements, this is because in a typical dataflow the only way that parent components can interact with their children are `props. `Refs`provides a way to let components receive a`Ref` and then pass it further down to a child.
+
+**Link to work:** [Forwarding Refs | React Docs](https://reactjs.org/docs/forwarding-refs.html)
