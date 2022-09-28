@@ -420,3 +420,11 @@
 **Thoughts:** `Refs` allow you to access DOM nodes and _React_ elements, this is because in a typical dataflow the only way that parent components can interact with their children are `props. `Refs`provides a way to let components receive a`Ref` and then pass it further down to a child.
 
 **Link to work:** [Forwarding Refs | React Docs](https://reactjs.org/docs/forwarding-refs.html)
+
+### Day 50: September 28, 2022
+
+**Today's Progress:** I learned about Higher Order Components(HOCs).
+
+**Thoughts:** Mutation of the wrapped component is highly discouraged as it is considered a leaky abstraction. Instead of mutation, composition should be used.
+
+**Link to work:** [Higher Order Components | React Docs](https://reactjs.org/docs/higher-order-components.html)
