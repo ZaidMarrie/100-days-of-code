@@ -15,3 +15,19 @@
 **Thoughts:** I would like to expand my knowledge with these technologies, but I found that they have to be used in client-side components. I does make sense though, since you are handling user input.
 
 **Link to Work:** [Deploy preview of account registration page](https://deploy-preview-14--ethereal-fashion-store.netlify.app/register)
+
+### Day 03: January 10, 2024
+
+**Today's Progress:** I worked on the Ethereal Fashion Store to add a new page route. I added the `help-center` page route. This route was then composed of a few components that I broke into smaller pieces to create an accordion. The accordion gets its data from sanity, where I defined a schema for this. The schema only has two fields though, so it was not much work to define and add data for this schema. In addition to adding the `help-center` route, I handled form fields with `Formik` and added validation using `Yup`.
+
+**Thoughts:** Working with Formik over the past few days, I can see how it can save me time when working with forms in `React`. I can't say that I am happy with how it works, but it is relatively simple so that's good. Using `Yup` for validation is much more satisfying than doing it from scratch.
+
+**Link to Work:** [PR of today's work](https://github.com/ZaidMarrie/ethereal-fashion-store/pull/15)
+
+### Day 04: January 11, 2024
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to Work:** []()
