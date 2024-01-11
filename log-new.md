@@ -26,8 +26,8 @@
 
 ### Day 04: January 11, 2024
 
-**Today's Progress:**
+**Today's Progress:** Today I was planning on working on the side-project I've been working on. I never got around to it, but decided to read some interesting articles on CSS. So no code for today though.
 
-**Thoughts:**
+**Thoughts:** I got no thought to share today.
 
-**Link to Work:** []()
+**Link to Work:** [No Link]()
