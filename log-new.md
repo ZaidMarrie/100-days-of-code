@@ -54,7 +54,15 @@
 
 **Thoughts:** I tried to design a Hash Table from the [LeetCode challenge](https://leetcode.com/explore/learn/card/hash-table/182/practical-applications/1139/) I got on [TechDevGuide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/). This was very overwhelming and intimidating for me. I had no idea where to start. The same thing happened when I tried the [Four Sum Challenge](https://leetcode.com/problems/4sum/description/).
 
-### Day 08: January 16, 2024
+### Day 08: January 17, 2024
+
+**Today's Progress:** Today I got started learning how to add authentication to a Next.js application. I learned how to add API routes and how to protect routes.
+
+**Thoughts:** Adding authentication with NextAuth is awesome. I have been procrastinating and avoiding adding authentication to my ecommerce app, but it has been a walk in the park adding it in tutorial projects.
+
+**Link to Tutorial:** [Next-Auth Login Authentication Tutorial](https://www.youtube.com/watch?v=w2h54xz6Ndw)
+
+### Day 09: January 18, 2024
 
 **Today's Progress:**
 
