@@ -64,8 +64,14 @@
 
 ### Day 09: January 18, 2024
 
-**Today's Progress:**
+**Today's Progress:** I continued my learning journey on the Next.js learn course and I completed the following chapters:
 
-**Thoughts:**
+- Chapter 8: Static and dynamic rendering
+- Chapter 9: Streaming
+- Chapter 10: Partial prerendering
 
-**Link to Work:**
+Streaming and suspense boundaries blew my mind🤯.
+
+**Thoughts:** Streaming in Next.js is so awesome. It makes applications look so professional and make the experience of waiting for data to load in so much more satisfying. Partial rendering combines static and dynamic rendering, however, it is not stable yet.
+
+**Link to Work:** []()
