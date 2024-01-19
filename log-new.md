@@ -75,3 +75,11 @@ Streaming and suspense boundaries blew my mind🤯.
 **Thoughts:** Streaming in Next.js is so awesome. It makes applications look so professional and make the experience of waiting for data to load in so much more satisfying. Partial rendering combines static and dynamic rendering, however, it is not stable yet.
 
 **Link to Work:** []()
+
+### Day 10: January 19, 2024
+
+**Today's Progress:** I continued with the Next.js course and learned how to add search and pagination to an app using `searchParams` and the Next.js API's.
+
+**Thoughts:** It is very easy and intuitive to create search and pagination within a Next.js application. I have learned valuable things that I look forward to using within my own applications.
+
+**Link to Work:** [Adding Search And Pagination](https://nextjs.org/learn/dashboard-app/adding-search-and-pagination)
