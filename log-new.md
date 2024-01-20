@@ -83,3 +83,19 @@ Streaming and suspense boundaries blew my mind🤯.
 **Thoughts:** It is very easy and intuitive to create search and pagination within a Next.js application. I have learned valuable things that I look forward to using within my own applications.
 
 **Link to Work:** [Adding Search And Pagination](https://nextjs.org/learn/dashboard-app/adding-search-and-pagination)
+
+### Day 11: January 20, 2024
+
+**Today's Progress:** Today I worked on the invoicing app I have been building from the Next.js course. The chapter I covered was on "Mutating data with server actions". In this chapter, I used server actions to mutate data in forms. I learned how to work with the native FormData object and how to make optimistic updates.
+
+**Thoughts:** I found these methods for mutating data to be very powerful. I can truly see how this can be helpful to me. From what I can tell, working with server actions is more secure than how I have been doing things. With this in mind, server actions are a progressive enhancement. They work with the native FormData object to gather data from form fields. They can do this even when JavaScript fails to load or is disabled. As a result users will still be able to interact with your apps, making it a greater UX & DX experience.
+
+**Link to Work:** [Mutating Data](https://nextjs.org/learn/dashboard-app/mutating-data)
+
+### Day 12: January 21, 2024
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to Work:** []()
