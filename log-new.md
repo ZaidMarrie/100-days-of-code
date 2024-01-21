@@ -94,6 +94,14 @@ Streaming and suspense boundaries blew my mind🤯.
 
 ### Day 12: January 21, 2024
 
+**Today's Progress:** I learned how to gracefully handle errors with JavaScript's try/catch blocks. I also learned about the error.tsx file in Next.js and how it can be used as a catch-all error route. Lastly, I use the notFound() function, and the not-found.tsx file to handle routes that don't exist.
+
+**Thoughts:** Handle errors in Next.js is a seamless process. You can catch-all errors with a simple file like `error.tsx`. This makes the process of handling errors while still keeping your application working much easier. The user can still use the application even when an error occurs. You can also use the `notFound()` function from `next/navigation` to redirect a user to a 404 not found page. The 404 error page can be created with a `not-found.tsx` file. It is important to not that the `not-found` file takes precedence over the `error` file.
+
+**Link to Work:** [Handling Errors](https://nextjs.org/learn/dashboard-app/error-handling)
+
+### Day 13: January 22, 2024
+
 **Today's Progress:**
 
 **Thoughts:**
