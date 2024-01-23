@@ -102,8 +102,8 @@ Streaming and suspense boundaries blew my mind🤯.
 
 ### Day 13: January 22, 2024
 
-**Today's Progress:**
+**Today's Progress:** Today I complete chapter 14 & 15 of the Next.js Learn course. I learned how to improve form accessibility using server-actions, a few new ARIA-\* attributes, and the useFormState hook. I also added authentication using NextAuth and the Next.js middleware.
 
-**Thoughts:**
+**Thoughts:** Adding authentication the way I did in this course is completely different from the approaches I came across in Youtube videos and some articles. I do think that this approach is more appropriate and a better way to implement authentication. I do however, want to learn how to add authentication with JWTs to create not only login functionality but also signup functionality.
 
-**Link to Work:** []()
+**Link to Work:** [Adding Authentication](https://nextjs.org/learn/dashboard-app/adding-authentication)
