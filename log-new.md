@@ -107,3 +107,11 @@ Streaming and suspense boundaries blew my mind🤯.
 **Thoughts:** Adding authentication the way I did in this course is completely different from the approaches I came across in Youtube videos and some articles. I do think that this approach is more appropriate and a better way to implement authentication. I do however, want to learn how to add authentication with JWTs to create not only login functionality but also signup functionality.
 
 **Link to Work:** [Adding Authentication](https://nextjs.org/learn/dashboard-app/adding-authentication)
+
+### Day 14: January 23, 2024
+
+**Today's Progress:** I just completed the @nextjs learn course. I built the dashboard app and I was able to get a better understanding of certain concepts & features in Next.js. This was an awesome way of learning, as I only had to focus on what I needed to in each chapter. Going forward I would like to practice what I learned to build better React apps.
+
+**Thoughts:** This course was an amazing experience building this fullstack dashboard app. I am inspired to build an application that I can use to track invoices, proposals, clients, project, and so much more. This could be a very useful app that I could use in my day-to-day freelance business as a creative developer. Adding a project like this to my portfolio would be amazing. Recruiters and hiring manager like to see these types of projects. Projects like this show how you can use your skills to build something that you use to solve a real problem.
+
+**Link to Work:** [Adding Metadata](https://nextjs.org/learn/dashboard-app/adding-metadata)
