@@ -123,3 +123,11 @@ Streaming and suspense boundaries blew my mind🤯.
 **Thoughts:** Each render in React will reference the state value for that render. When you set state, it does not update the state variable, instead it triggers a re-render that will calculate the new value of state and everything in that render will reference that render's state value. Local variables and handlers do not persist data between renders.
 
 **Link to Work:** [State as a Snapshot](https://react.dev/learn/state-as-a-snapshot)
+
+### Day 16: January 27, 2024
+
+**Today's Progress:** I just learned something interesting about state in React. Each render will have a fixed value for state. Setting state does not update the state variable, instead it triggers a re-render with the updated state value.
+
+**Thoughts:** If I'm right this is closures at work. Some issues I had in the past make sense now.
+
+**Link to Work:** [State as a Snapshot](https://react.dev/learn/state-as-a-snapshot)
